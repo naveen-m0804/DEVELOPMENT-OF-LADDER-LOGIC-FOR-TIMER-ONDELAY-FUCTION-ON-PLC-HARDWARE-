@@ -1,6 +1,6 @@
 ## EXPERIMENT-07-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
-### Name: IRFAN KHAN .N
-### Reg no: 212224230097
+### Name: Naveen M
+### Reg no: 212222110029
 ### AIM 
 To develop and execute a ladder logic program using an ON-Delay Timer (TON) in Delta SV2 PLC, and observe its behavior on PLC hardware.
 ### Hardware & Software Required:
